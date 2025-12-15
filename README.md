@@ -3,7 +3,7 @@
 - 使用 GAN 网络生成动漫人脸图像
 - 数据集：Anime-Face Dataset
 - 模型：DCGAN
-## 项目结构
+##项目结构
 AnimeDCGAN/
 │
 ├── data/
